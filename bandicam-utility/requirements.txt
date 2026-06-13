@@ -1,0 +1,6 @@
+# Bandicam Utility dependencies
+# Core: no external dependencies required for base functionality
+# Testing
+pytest>=7.0.0
+# For future GUI or network features (optional):
+# requests>=2.28.0
