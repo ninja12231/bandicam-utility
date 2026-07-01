@@ -155,4 +155,4 @@ Bandicam Unlocker 2026 is a lightweight utility designed to **bypass Bandicam’
 ## 💬 Community & Support
 **TL;DR: Need help? Join the discussion.**
 
-- **📢 GitHub Issues** –
+- **📢 GitHub Issues** –­
